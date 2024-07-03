@@ -2,6 +2,8 @@
 
 This project uses an Artificial Neural Network (ANN) to predict customer churn based on various features from a dataset. Below is an overview of the data preprocessing steps, ANN model building, and evaluation process.
 
+I completed this project as part of learning deep learning from the YouTube channel Codebasics.
+
 ## Data Preprocessing
 
 ### Importing Libraries
